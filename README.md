@@ -15,8 +15,8 @@
 ## Ejecucion del programa 
 
 ### Para Todos los puntos abrir la consola en el Visual Studio con: Cntrl + Shift + Ñ o abrir tu consola favorita en el archivo correspondiente 
-## Para el primer punto esrcibir en la consola pyton puntoUno.py 
+## Para el primer punto escribir en la consola pyton puntoUno.py 
 
-## Para el segundo punto esrcibir en la consola pyton puntoDos.py 
+## Para el segundo punto escribir en la consola pyton puntoDos.py 
 
-## Para el tercero punto esrcibir en la consola pyton PuntoTres.py 
+## Para el tercero punto escribir en la consola pyton PuntoTres.py 
